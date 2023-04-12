@@ -38,6 +38,8 @@ We Build **Data Products**
 * API services
 * *Productionized* Machine Learning
 
+[ketchbrookanalytics.com](https://www.ketchbrookanalytics.com)
+
 ## Dashboards / Web Applications {.smaller}
 
 ::: {.nonincremental}
@@ -164,4 +166,4 @@ What does it mean for you?
 
 <br>
 
-[https://ketchbrookanalytics.github.io/stonehill-fintech-presentation-2023](https://ketchbrookanalytics.github.io/stonehill-fintech-presentation-2023)
+[https://mthomas-ketchbrook.github.io/stonehill-fintech-presentation-2023](https://mthomas-ketchbrook.github.io/stonehill-fintech-presentation-2023)
