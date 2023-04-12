@@ -58,7 +58,7 @@ We Build **Data Products**
 :::
 
 ::: {.column width="50%"}
-[Canadian Western Boreal Ecosystem Simulator](https://wbi-nwt.analythium.app/apps/nwt/)
+[Canadian Western Boreal Ecosystem Simulator](https://wbi.predictiveecology.org/apps/nwt/)
 ![](www/wbi_dashboard_screenshot.png)
 :::
 
