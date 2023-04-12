@@ -144,13 +144,18 @@ What does it mean for you?
 <br>
 
 - Learn a little bit of programming (R or Python)
+- Statistical literacy can go a long way
 - Find something you like to ~~do~~ learn about
 
 ::: {.notes}
 - Learn a little bit of programming in R or Python (I think R is easier to get started with)
-- Programming is *so* much more approachable than it used to be
-- If you can write a formula in Excel, you can program
-- HOWEVER -- *How* you are taught is critical (make it use-case driven, and learn the fundamentals along the way, not all up front)
+  - Programming is *so* much more approachable than it used to be
+  - If you can write a formula in Excel, you can program
+  - HOWEVER -- *How* you are taught is critical (make it use-case driven, and learn the fundamentals along the way, not all up front)
+- Statistical literacy can go a long way
+  - We are really bad at interpreting probabilities
+  - Weather example
+  - Bring this into your workplace; every business decision involves some level of risk and each outcome has some probability -- being able to think critically here is imperative to making successful decisions in the long-term
 - Find something you like to ~~do~~ learn about
 :::
 
