@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#a-little-bit-about-me",
+    "href": "stonehill-fintech-presentation-2023.html#a-little-bit-about-me",
+    "title": "Data Science & FinTech",
+    "section": "A Little Bit About Me",
+    "text": "A Little Bit About Me"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#a-little-bit-about-me-1",
+    "href": "stonehill-fintech-presentation-2023.html#a-little-bit-about-me-1",
+    "title": "Data Science & FinTech",
+    "section": "A Little Bit About Me",
+    "text": "A Little Bit About Me"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#what-we-do",
+    "href": "stonehill-fintech-presentation-2023.html#what-we-do",
+    "title": "Data Science & FinTech",
+    "section": "What We Do",
+    "text": "What We Do\nWe Build Data Products\n\nDashboards / web applications\nAPI services\nProductionized Machine Learning"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#dashboards-web-applications",
+    "href": "stonehill-fintech-presentation-2023.html#dashboards-web-applications",
+    "title": "Data Science & FinTech",
+    "section": "Dashboards / Web Applications",
+    "text": "Dashboards / Web Applications\n\n\nUnderestimated communication tool\nTime-savings for analysts\nReinforces importance of data quality\n\n\n\n\n\nOhio Dept. of Health Youth Homelessness Dashboard \n\nCanadian Western Boreal Ecosystem Simulator"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#api-services",
+    "href": "stonehill-fintech-presentation-2023.html#api-services",
+    "title": "Data Science & FinTech",
+    "section": "API Services",
+    "text": "API Services\nCustomer-facing or internal facing\n\n\nGoogle is a great example of this, their Maps API is used by many (including Ketchbrook) for geo-coding w/ Market Magnify\nWe have a client who is a target marketing firm, and they get a ton of customer account data from their bank clients each month. This enables them to do some benchmarking (e.g., this person with an account at your bank is in the top 13% of all customers in the U.S. in terms of their savings account balance)\nHere’s an example from one of our clients who provides a benchmarking API service that we helped build out for banks to consume within their CRM platform"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#api-services-1",
+    "href": "stonehill-fintech-presentation-2023.html#api-services-1",
+    "title": "Data Science & FinTech",
+    "section": "API Services",
+    "text": "API Services"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#api-services-2",
+    "href": "stonehill-fintech-presentation-2023.html#api-services-2",
+    "title": "Data Science & FinTech",
+    "section": "API Services",
+    "text": "API Services"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#api-services-3",
+    "href": "stonehill-fintech-presentation-2023.html#api-services-3",
+    "title": "Data Science & FinTech",
+    "section": "API Services",
+    "text": "API Services"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#machine-learning",
+    "href": "stonehill-fintech-presentation-2023.html#machine-learning",
+    "title": "Data Science & FinTech",
+    "section": "Machine Learning",
+    "text": "Machine Learning\nData enables the possibility of ML\nExample ML use cases:\n\nAutomated Lending\nTarget Marketing\nCustomer Churn\nInsurance Pricing\n\n\n\nJust because we have data in a database somewhere, doesn’t automatically mean that we can start doing machine learning – it needs to start with a use case, and then we either have the data available to solve that business problem with ML, or we need to go and get it\nSome example use cases include:\n\nautomated lending\ntarget marketing\ncustomer churn\ninsurance pricing"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#machine-learning-1",
+    "href": "stonehill-fintech-presentation-2023.html#machine-learning-1",
+    "title": "Data Science & FinTech",
+    "section": "Machine Learning",
+    "text": "Machine Learning\n\n\nWhen we think of productionizing machine learning we really think about doing that two ways: - wrapping up the model inside a REST API so that it can be used for on-demand predictions - So let’s use the automated lending example [walk through diagram]"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#machine-learning-2",
+    "href": "stonehill-fintech-presentation-2023.html#machine-learning-2",
+    "title": "Data Science & FinTech",
+    "section": "Machine Learning",
+    "text": "Machine Learning\n\n\n… or scoring a batch of observations against the model as part of a nightly process"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#chatgpt",
+    "href": "stonehill-fintech-presentation-2023.html#chatgpt",
+    "title": "Data Science & FinTech",
+    "section": "ChatGPT",
+    "text": "ChatGPT\nWhat does it mean for you?\n\n\n\nThere was a time, when to find the answer to a question you had to open up an encyclopedia, go to a library, or call someone who you thought might know the answer\nNow, most of the world’s information has been posted on the internet\nAnd Google has done this incredible job of finding & ranking the information that best answers the question you typed into this single little text box\n\nIt has to be the biggest dichotomy between the complexity of what’s on the screen versus the power behind that single text box you type into\n\nThere used to be a show on TV called “Who Wants to be a Millionaire”, and if you didn’t know the answer to a question you could “phone a friend”; there’s know way this exists anymore since I imagine people getting that call could just pull out their phone and type it into Google\nIn my opinion, it’s just a better version of Google – which everyone uses to answer just about everything they do nowadays – you’re going to get your information sooner, and you’ll have to do less work potentially than you would searching Google and collating results into a single paper/deliverable"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#advice",
+    "href": "stonehill-fintech-presentation-2023.html#advice",
+    "title": "Data Science & FinTech",
+    "section": "Advice",
+    "text": "Advice\n\n\nLearn a little bit of programming (R or Python)\nFind something you like to do learn about\n\n\n\nLearn a little bit of programming in R or Python (I think R is easier to get started with)\nProgramming is so much more approachable than it used to be\nIf you can write a formula in Excel, you can program\nHOWEVER – How you are taught is critical (make it use-case driven, and learn the fundamentals along the way, not all up front)\nFind something you like to do learn about"
+  },
+  {
+    "objectID": "stonehill-fintech-presentation-2023.html#q-a-contact-me",
+    "href": "stonehill-fintech-presentation-2023.html#q-a-contact-me",
+    "title": "Data Science & FinTech",
+    "section": "Q & A / Contact Me",
+    "text": "Q & A / Contact Me\n\nmthomas@ketchbrookanalytics.com\n\nhttps://www.linkedin.com/in/michaeljthomas2/\n\nhttps://ketchbrookanalytics.github.io/stonehill-fintech-presentation-2023"
+  }
+]

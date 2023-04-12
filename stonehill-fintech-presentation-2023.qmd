@@ -1,7 +1,7 @@
 ---
 title: "Data Science & FinTech"
 subtitle: "Separating the Truth from the Hype"
-author: "Michael Thomas, M.S."
+author: "Michael Thomas, M.S. | Chief Data Scientist"
 format:
   revealjs: 
     theme: sky
@@ -11,7 +11,6 @@ format:
     transition: slide
     preview-links: true
 ---
-
 
 ## A Little Bit About Me {transition="none-out"}
 
@@ -127,6 +126,8 @@ When we think of productionizing machine learning we really think about doing th
 
 What does it mean for you?
 
+![](www/chat_gpt.jpg)
+
 ::: {.notes}
 - There was a time, when to find the answer to a question you had to open up an encyclopedia, go to a library, or call someone who you thought might know the answer
 - Now, most of the world's information has been posted on the internet
@@ -138,8 +139,29 @@ What does it mean for you?
 
 ## Advice
 
+<br>
+
+- Learn a little bit of programming (R or Python)
+- Find something you like to ~~do~~ learn about
+
+::: {.notes}
 - Learn a little bit of programming in R or Python (I think R is easier to get started with)
 - Programming is *so* much more approachable than it used to be
 - If you can write a formula in Excel, you can program
 - HOWEVER -- *How* you are taught is critical (make it use-case driven, and learn the fundamentals along the way, not all up front)
 - Find something you like to ~~do~~ learn about
+:::
+
+## Q & A / Contact Me
+
+<br>
+
+[mthomas@ketchbrookanalytics.com](mailto:mthomas@ketchbrookanalytics.com)
+
+<br>
+
+[https://www.linkedin.com/in/michaeljthomas2/](https://www.linkedin.com/in/michaeljthomas2/)
+
+<br>
+
+[https://ketchbrookanalytics.github.io/stonehill-fintech-presentation-2023](https://ketchbrookanalytics.github.io/stonehill-fintech-presentation-2023)
